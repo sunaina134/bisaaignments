@@ -1,0 +1,21 @@
+{
+    "name": "area-vol-cal",
+    "version": "1.0.0",
+    "description": "Area vol APi",
+    "main": "app.js",
+    "scripts": {
+        "test": "npm i & node app.js",
+        "start": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sunaina134/board-inifinity-Assignments"
+    },
+    "keywords": [
+        "area",
+        "volume",
+        "calculator"
+    ],
+    "author": "Sunaina Arora",
+    "license": "ISC"
+}
